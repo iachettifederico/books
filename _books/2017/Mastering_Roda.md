@@ -4,7 +4,7 @@ authors:
 - Federico M. Iachetti
 year: 2017
 categories: []
-prices: "$15"
+prices: "free"
 editor: Self Published
-home_url: https://gumroad.com/l/mastering_roda
+home_url: https://fiachetti.gitlab.io/mastering-roda
 ---
